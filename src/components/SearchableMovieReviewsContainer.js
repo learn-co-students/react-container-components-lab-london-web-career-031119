@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import 'isomorphic-fetch';
-import MovieReviews from './MovieReviews'
-
-const GOOG_API_KEY = 'AIzaSyBjl0NQBlQC0LpXSvwEqGS_dqOdULie_NE';
+import MovieReviews from';
 
 // Code SearchableMovieReviewsContainer Here
 class SearchableMovieReviewsContainer extends Component {
